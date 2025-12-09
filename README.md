@@ -79,7 +79,7 @@ I'm a third-year Bachelor of Computer and Information Sciences in Application De
 <table>
 <tr>
 <td width="150" align="center">
-<img src="https://raw.githubusercontent.com/Keentsem/Keentsem/main/assets/chat-bot-icon.png" width="80" alt="Axi-Bot"/>
+<img src="https://raw.githubusercontent.com/Keentsem/Keentsem/main/assets/chat_bot_icon.png" width="80" alt="Axi-Bot"/>
 </td>
 <td>
 
