@@ -131,21 +131,6 @@ Web application enabling citizens to report issues to local municipalities. Feat
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-## GitHub Stats
-
-<div align="center">
-
-![Keentse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keentsem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true)
-
-</div>
-</div>
-
----
-
 <div align="center">
 
 ### Let's Build Something Together
