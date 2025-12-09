@@ -135,12 +135,13 @@ Web application enabling citizens to report issues to local municipalities. Feat
 
 <div align="center">
 
-![Keentse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keentsem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keentsem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keentsem&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+![Keentse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keentsem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true)
 
+</div>
 </div>
 
 ---
